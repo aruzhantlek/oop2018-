@@ -1,0 +1,8 @@
+Ivanov Ivan - B
+Kaipzhan Rustem - A
+Aliyev Ali - F
+Menshikov Sergey - C
+
+Average = 68
+Max = 100
+Min = 22
